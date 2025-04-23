@@ -34,5 +34,5 @@ Available for collaboration when the requirements demand:
 
 ---
 
-Some systems are designed to impress. Others are designed to perform. 
-I create the kind that excel in both
+Some systems are designed to impress. Others are designed to perform.
+I create the kind that excel in both.
