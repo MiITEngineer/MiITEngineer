@@ -2,11 +2,11 @@
 
 Engineer and strategist working across systems, infrastructure, and intelligence.
 
-My background blends backend engineering, system administration, and applied intelligence into a single principle: control what you build, understand what you run, and never rely on guesswork. I’ve led infrastructure projects from the inside-writing the logic, securing the environment, maintaining uptime under pressure. I don’t delegate what matters.
+My background blends backend engineering, system administration, and applied intelligence into a single principle: control what you build, understand what you run, and never rely on guesswork. I’ve led infrastructure projects from the inside - writing the logic, securing the environment, maintaining uptime under pressure. I don’t delegate what matters.
 
 My journey into artificial intelligence wasn’t just about tech - it was about understanding the brain, both natural and artificial. I explore how systems mirror human cognition: how they respond, adapt, and remain clear in their behavior, all while staying precise and reliable. This perspective, shaped by both psychological insight and engineering, drives how I design and build intuitive, resilient systems.
 
-I also work in digital analysis and reconnaissance. From footprinting and adversarial modeling to OSINT workflows and threat surface mapping-understanding systems requires seeing what they expose, and what they hide.
+I also work in digital analysis and reconnaissance. From footprinting and adversarial modeling to OSINT workflows and threat surface mapping - understanding systems requires seeing what they expose, and what they hide.
 
 ## Competence
 
