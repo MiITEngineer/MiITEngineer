@@ -34,5 +34,5 @@ Available for collaboration when the requirements demand:
 
 ---
 
-Some systems are built to be seen. Others are built to work.  
-Mine are the second kind.
+Some systems are designed to impress. Others are designed to perform. 
+I create the kind that excel in both
