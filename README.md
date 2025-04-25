@@ -12,10 +12,10 @@ I also work in digital analysis and reconnaissance. From footprinting and advers
 
 • Windows and Linux system administration  
 • Python scripting, automation, and backend architecture  
-• Functional frontend engineering-driven by clarity and control  
-• Applied AI workflows and context-based system design  
+• Functional frontend engineering - driven by clarity and control  
+• Applied AI workflows and context - based system design  
 • OSINT, passive intelligence, footprinting, adversarial detection  
-• Infrastructure engineering—containers, proxies, routing, monitoring  
+• Infrastructure engineering - containers, proxies, routing, monitoring  
 • Secure deployments, system hardening, and operational reliability  
 
 ## Approach
